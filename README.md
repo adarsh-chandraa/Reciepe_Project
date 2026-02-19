@@ -1,0 +1,1 @@
+This is the trail webapge created using html , css that dynamically showing the different food items.
